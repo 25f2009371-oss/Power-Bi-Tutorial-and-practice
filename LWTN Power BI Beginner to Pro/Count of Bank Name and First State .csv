@@ -1,0 +1,451 @@
+﻿City State,Count of Bank Name,First State 
+"Chicago, IL",22,IL
+"Atlanta, GA",10,GA
+"Phoenix, AZ",6,AZ
+"Naples, FL",5,FL
+"Alpharetta, GA",4,GA
+"Bradenton, FL",4,FL
+"Las Vegas, NV",4,NV
+"Los Angeles, CA",4,CA
+"Miami, FL",4,FL
+"Scottsdale, AZ",4,AZ
+"Asheville, NC",3,NC
+"Baltimore, MD",3,MD
+"Birmingham, AL",3,AL
+"Henderson, NV",3,NV
+"Milwaukee, WI",3,WI
+"New York, NY",3,NY
+"Philadelphia, PA",3,PA
+"San Francisco, CA",3,CA
+"Sarasota, FL",3,FL
+"Stockbridge, GA",3,GA
+"Tampa, FL",3,FL
+"Woodstock, GA",3,GA
+"Boca Raton, FL",2,FL
+"Carrollton, GA",2,GA
+"Cartersville, GA",2,GA
+"Charleston, SC",2,SC
+"Coral Gables, FL",2,FL
+"Crestview, FL",2,FL
+"Denver, CO",2,CO
+"Douglasville, GA",2,GA
+"Duluth, GA",2,GA
+"Ellijay, GA",2,GA
+"Farmington Hills, MI",2,MI
+"Forest Lake, MN",2,MN
+"Fort Lauderdale, FL",2,FL
+"Fort Myers, FL",2,FL
+"Gray, GA",2,GA
+"Greeley, CO",2,CO
+"Houston, TX",2,TX
+"Irvine, CA",2,CA
+"Jackson, GA",2,GA
+"Jacksonville, FL",2,FL
+"Jasper, GA",2,GA
+"Kansas City, MO",2,MO
+"La Jolla, CA",2,CA
+"LaGrange, GA",2,GA
+"Longview, WA",2,WA
+"Macon, GA",2,GA
+"McDonough, GA",2,GA
+"Mesa, AZ",2,AZ
+"Newark, NJ",2,NJ
+"Newnan, GA",2,GA
+"Newport Beach, CA",2,CA
+"Ocala, FL",2,FL
+"Olathe, KS",2,KS
+"Orlando, FL",2,FL
+"Overland Park, KS",2,KS
+"Palatka, FL",2,FL
+"Palm Desert, CA",2,CA
+"Pittsburgh, PA",2,PA
+"Reno, NV",2,NV
+"San Diego, CA",2,CA
+"San Juan, PR",2,PR
+"Seattle, WA",2,WA
+"St. Louis, MO",2,MO
+"Tacoma, WA",2,WA
+"Valdosta, GA",2,GA
+"Wilmington, NC",2,NC
+"Winder, GA",2,GA
+"Acworth, GA",1,GA
+"Ailey, GA",1,GA
+"Alamo, TN",1,TN
+"Albuquerque, NM",1,NM
+"Aledo, IL",1,IL
+"Almena, KS",1,KS
+"Altus, OK",1,OK
+"Andover, MN",1,MN
+"Anthony, KS",1,KS
+"Antioch, IL",1,IL
+"Apollo Beach, FL",1,FL
+"Arcola, IL",1,IL
+"Argonia, KS",1,KS
+"Arlington, WA",1,WA
+"Aurora, IL",1,IL
+"Aurora, MN",1,MN
+"Austin, TX",1,TX
+"Aventura, FL",1,FL
+"Bainbridge Island, WA",1,WA
+"Bakersfield, CA",1,CA
+"Bala Cynwyd, PA",1,PA
+"Barboursville, WV",1,WV
+"Barnesville, GA",1,GA
+"Bartow, FL",1,FL
+"Batesville, AR",1,AR
+"Beaverton, OR",1,OR
+"Bel Air, MD",1,MD
+"Belleview, FL",1,FL
+"Bellingham, WA",1,WA
+"Bentonville, AR",1,AR
+"Berkeley, IL",1,IL
+"Berwyn, IL",1,IL
+"Berwyn, PA",1,PA
+"Blackwell, OK",1,OK
+"Blanchardville, WI",1,WI
+"Bloomington, MN",1,MN
+"Bluffton, SC",1,SC
+"Boise, ID",1,ID
+"Bonifay, FL",1,FL
+"Boothwyn, PA",1,PA
+"Braselton, GA",1,GA
+"Bremerton, WA",1,WA
+"Bridgeport, CT",1,CT
+"Brooksville, FL",1,FL
+"Brunswick, GA",1,GA
+"Buford, GA",1,GA
+"Burlington, WA",1,WA
+"Burlington, WI",1,WI
+"Butler, MO",1,MO
+"Calabasas, CA",1,CA
+"Camargo, OK",1,OK
+"Cambridge, MD",1,MD
+"Cape Coral, FL",1,FL
+"Carrabelle, FL",1,FL
+"Carson City, NV",1,NV
+"Carthage, MS",1,MS
+"Cassville, WI",1,WI
+"Castle Rock, CO",1,CO
+"Cave Junction, OR",1,OR
+"Champaign, IL",1,IL
+"Champlin, MN",1,MN
+"Cheneyville, LA",1,LA
+"Cherry Hill, NJ",1,NJ
+"Chesterfield, MO",1,MO
+"Chico, CA",1,CA
+"Cincinnati, OH",1,OH
+"Clarkesville, GA",1,GA
+"Clayton, GA",1,GA
+"Clearwater, FL",1,FL
+"Clermont, FL",1,FL
+"Cleveland, OH",1,OH
+"Clewiston, FL",1,FL
+"Clinton, IL",1,IL
+"Cocoa Beach, FL",1,FL
+"Colfax, WA",1,WA
+"Colorado Springs, CO",1,CO
+"Columbia, SC",1,SC
+"Columbus, IN",1,IN
+"Commerce, GA",1,GA
+"Conyers, GA",1,GA
+"Cooper, TX",1,TX
+"Cornelia, GA",1,GA
+"Cottonwood Heights, UT",1,UT
+"Covington, LA",1,LA
+"Cranford, NJ",1,NJ
+"Crawfordville, FL",1,FL
+"Crete, IL",1,IL
+"Creve Coeur, MO",1,MO
+"Crofton, MD",1,MD
+"Culver City, CA",1,CA
+"Cumming, GA",1,GA
+"Dallas, GA",1,GA
+"Dallas, TX",1,TX
+"Danville, IL",1,IL
+"Davis, OK",1,OK
+"Dawsonville, GA",1,GA
+"Dearborn, MI",1,MI
+"Decatur, GA",1,GA
+"Des Plaines, IL",1,IL
+"Destin, FL",1,FL
+"Detroit, MI",1,MI
+"Doraville, GA",1,GA
+"Draper, UT",1,UT
+"Easley, SC",1,SC
+"East Ellijay, GA",1,GA
+"Edinburg, TX",1,TX
+"El Reno, OK",1,OK
+"Eldred, IL",1,IL
+"Elizabeth, IL",1,IL
+"Elizabeth, NJ",1,NJ
+"Elkhart, KS",1,KS
+"Elko, NV",1,NV
+"Ellaville, GA",1,GA
+"Ellington, MO",1,MO
+"Elmwood Park, IL",1,IL
+"Englewood, FL",1,FL
+"Ephraim, UT",1,UT
+"Ericson, NE",1,NE
+"Eugene, OR",1,OR
+"Evansville, IN",1,IN
+"Everett, WA",1,WA
+"Fairfax, SC",1,SC
+"Fayetteville, GA",1,GA
+"Flagstaff, AZ",1,AZ
+"Fort Deposit, AL",1,AL
+"Fort Lee, NJ",1,NJ
+"Fort Pierce, FL",1,FL
+"Fort Walton Beach, FL",1,FL
+"Franklin, GA",1,GA
+"Franklin, TN",1,TN
+"Freedom, OK",1,OK
+"Gaithersburg, MD",1,MD
+"Geneva, IL",1,IL
+"Germantown, MD",1,MD
+"Gilbert, AZ",1,AZ
+"Glasgow, MO",1,MO
+"Glenwood, IL",1,IL
+"Gold Canyon, AZ",1,AZ
+"Gordon, GA",1,GA
+"Graceville, FL",1,FL
+"Granite Bay, CA",1,CA
+"Gravette, AR",1,AR
+"Greenwood Village, CO",1,CO
+"Hallock, MN",1,MN
+"Hamtramck, MI",1,MI
+"Hancock, MN",1,MN
+"Harvey, IL",1,IL
+"Hastings, MI",1,MI
+"Hato Rey, PR",1,PR
+"Hiawassee, GA",1,GA
+"Hinsdale, IL",1,IL
+"Hoffman Estates, IL",1,IL
+"Honolulu, HI",1,HI
+"Horsham, PA",1,PA
+"Hume, MO",1,MO
+"Huntingdon Valley, PA",1,PA
+"Immokalee, FL",1,FL
+"Irondale, AL",1,AL
+"Jefferson City, MO",1,MO
+"Johnston, IA",1,IA
+"Jonesboro, GA",1,GA
+"Jupiter, FL",1,FL
+"Kaysville, UT",1,UT
+"Kennesaw, GA",1,GA
+"Kenosha, WI",1,WI
+"Kentland, IN",1,IN
+"Ketchum, ID",1,ID
+"Key West, FL",1,FL
+"King of Prussia, PA",1,PA
+"Kingfisher, OK",1,OK
+"Kingstree, SC",1,SC
+"Knoxville, TN",1,TN
+"La Coste, TX",1,TX
+"Lacey, WA",1,WA
+"Lacombe, LA",1,LA
+"Lakeview, OH",1,OH
+"Lantana, FL",1,FL
+"Lawrenceville, GA",1,GA
+"Layton, UT",1,UT
+"Leawood, KS",1,KS
+"Leeton, MO",1,MO
+"Lemont, IL",1,IL
+"Lenexa, KS",1,KS
+"Lenoir, NC",1,NC
+"Lexington, KY",1,KY
+"Lincoln, NE",1,NE
+"Lincolnwood, IL",1,IL
+"Lindsay, OK",1,OK
+"Lino Lakes, MN",1,MN
+"Little Falls, MN",1,MN
+"Loganville, GA",1,GA
+"Louisa, KY",1,KY
+"Louisville, CO",1,CO
+"Louisville, KY",1,KY
+"Loup City, NE",1,NE
+"Lowell, MA",1,MA
+"Lutz, FL",1,FL
+"Lynchburg, TN",1,TN
+"Lynnwood, WA",1,WA
+"Macomb, IL",1,IL
+"Madisonville, TX",1,TX
+"Malta, OH",1,OH
+"Manchester, NH",1,NH
+"Mankato, MN",1,MN
+"Maple Grove, MN",1,MN
+"Marco Island, FL",1,FL
+"Marianna, FL",1,FL
+"Marietta, GA",1,GA
+"Martinsville, VA",1,VA
+"Maumee, OH",1,OH
+"Mayaguez, PR",1,PR
+"Maywood, IL",1,IL
+"McCaysville, GA",1,GA
+"Memphis, TN",1,TN
+"Merced, CA",1,CA
+"Metropolis, IL",1,IL
+"Milford, OH",1,OH
+"Milton, FL",1,FL
+"Moline, IL",1,IL
+"Montgomery, AL",1,AL
+"Mount Clemens, MI",1,MI
+"Mulberry, AR",1,AR
+"Myrtle Beach, SC",1,SC
+"Napa, CA",1,CA
+"Naperville, IL",1,IL
+"Nevada City, CA",1,CA
+"New Baltimore, MI",1,MI
+"New Orleans, LA",1,LA
+"New Prague, MN",1,MN
+"Norcross, GA",1,GA
+"Norfolk, VA",1,VA
+"Normal, IL",1,IL
+"North Las Vegas, NV",1,NV
+"North Lauderdale, FL",1,FL
+"Northfork, WV",1,WV
+"Northville, MI",1,MI
+"Oak Forest, IL",1,IL
+"Oakdale, MN",1,MN
+"Oakland, CA",1,CA
+"Oakwood, OH",1,OH
+"Ogden, UT",1,UT
+"Omaha, NE",1,NE
+"Orange Park, FL",1,FL
+"Oregon, IL",1,IL
+"Orland Park, IL",1,IL
+"Otsego, MN",1,MN
+"Palm Beach, FL",1,FL
+"Palm Springs, CA",1,CA
+"Palos Heights, IL",1,IL
+"Panama City Beach, FL",1,FL
+"Panama City, FL",1,FL
+"Paola, KS",1,KS
+"Parma, OH",1,OH
+"Parsons, TN",1,TN
+"Pasadena, CA",1,CA
+"Pawleys Island, SC",1,SC
+"Peachtree City, GA",1,GA
+"Pennsville, NJ",1,NJ
+"Peotone, IL",1,IL
+"Perry, GA",1,GA
+"Pine City, MN",1,MN
+"Pittsfield, IL",1,IL
+"Plano, TX",1,TX
+"Plymouth, MI",1,MI
+"Pomona, CA",1,CA
+"Ponte Vedra Beach, FL",1,FL
+"Port Chester, NY",1,NY
+"Port Huron, MI",1,MI
+"Port Orange, FL",1,FL
+"Port Saint Joe, FL",1,FL
+"Port St. Lucie, FL",1,FL
+"Prescott, AZ",1,AZ
+"Princeton, IL",1,IL
+"Prineville, OR",1,OR
+"Pueblo, CO",1,CO
+"Racine, WI",1,WI
+"Rancho Cucamonga, CA",1,CA
+"Randallstown, MD",1,MD
+"Redlands, CA",1,CA
+"Reidsville, GA",1,GA
+"Reston, VA",1,VA
+"Richmond, VA",1,VA
+"Ridgewood, NJ",1,NJ
+"Rising Sun, MD",1,MD
+"Rock Spring, GA",1,GA
+"Rockford, IL",1,IL
+"Rockmart, GA",1,GA
+"Rolling Meadows, IL",1,IL
+"Rosedale, MS",1,MS
+"Rosemount, MN",1,MN
+"Roswell, GA",1,GA
+"Sac City, IA",1,IA
+"Saint Elmo, IL",1,IL
+"Saint George, UT",1,UT
+"Saint Marys, GA",1,GA
+"Saint Paul, MN",1,MN
+"Salt Lake City, UT",1,UT
+"San Clemente, CA",1,CA
+"San Luis Obispo, CA",1,CA
+"San Rafael, CA",1,CA
+"Sanderson, TX",1,TX
+"Santa Anna, TX",1,TX
+"Santa Clara, CA",1,CA
+"Santa Fe, NM",1,NM
+"Santa Monica, CA",1,CA
+"Savannah, GA",1,GA
+"Sedalia, MO",1,MO
+"Sevierville, TN",1,TN
+"Shabbona, IL",1,IL
+"Shelby Township, MI",1,MI
+"Shelbyville, IN",1,IN
+"Shoreline, WA",1,WA
+"Shorewood, IL",1,IL
+"Sierra Blanca, TX",1,TX
+"Silverton, OR",1,OR
+"Sioux City, IA",1,IA
+"Sioux Falls, SD",1,SD
+"Snohomish, WA",1,WA
+"Solvang, CA",1,CA
+"Sonoma, CA",1,CA
+"Southampton, PA",1,PA
+"Sparta, GA",1,GA
+"Spartanburg, SC",1,SC
+"Spring Grove, MN",1,MN
+"Springfield, GA",1,GA
+"Springfield, IL",1,IL
+"Springfield, MO",1,MO
+"St. Charles, IL",1,IL
+"St. Stephen, MN",1,MN
+"Stamford, CT",1,CT
+"Staples, MN",1,MN
+"Statesboro, GA",1,GA
+"Sterling Heights, MI",1,MI
+"Sterling, VA",1,VA
+"Stockton, CA",1,CA
+"Stoughton, WI",1,WI
+"Sugar Creek, MO",1,MO
+"Sunrise Beach, MO",1,MO
+"Suwanee, GA",1,GA
+"Sylacauga, AL",1,AL
+"Sylvan Grove, KS",1,KS
+"Tallahassee, FL",1,FL
+"Tamarac, FL",1,FL
+"Taos, NM",1,NM
+"Teague, TX",1,TX
+"Temecula, CA",1,CA
+"The Dalles, OR",1,OR
+"The Woodlands, TX",1,TX
+"Thermopolis, WY",1,WY
+"Tifton, GA",1,GA
+"Topeka, KS",1,KS
+"Torrance, CA",1,CA
+"University Place, WA",1,WA
+"Vancouver, WA",1,WA
+"Venice, FL",1,FL
+"Ventura, CA",1,CA
+"Vidalia, GA",1,GA
+"Villa Rica, GA",1,GA
+"Warren, MI",1,MI
+"Watkinsville, GA",1,GA
+"Waukegan, IL",1,IL
+"Wausau, WI",1,WI
+"West Allis, WI",1,WI
+"West Chester, OH",1,OH
+"West Chicago, IL",1,IL
+"Western Springs, IL",1,IL
+"Westminster, CA",1,CA
+"Westmont, IL",1,IL
+"White Plains, NY",1,NY
+"Whiteville, NC",1,NC
+"Williamsville, NY",1,NY
+"Wilmette, IL",1,IL
+"Winchester, IL",1,IL
+"Windsor, CO",1,CO
+"Winter Park, FL",1,FL
+"Wood Dale, IL",1,IL
+"Woodbury, GA",1,GA
+"Woodbury, MN",1,MN
+"Woodland Hills, CA",1,CA
+"Worth, IL",1,IL
+"Wyoming, MN",1,MN
